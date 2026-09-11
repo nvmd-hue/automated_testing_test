@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+
+# PyCharm / IntelliJ project files
+.idea/
+*.iml
+
+# Exceptions to PyCharm settings (if you wish to share run configurations with your team)
+!.idea/runConfigurations/
+!.idea/vcs.xml
